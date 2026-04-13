@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">practica_3</string>
+    <string name="images_interaction">Interacción con Imágenes</string>
+    <string name="label">Haga </string>
+    <string name="media_player">Reproductor de Música</string>
+    <string name="enter_text">Ingese un mensaje</string>
+</resources>
