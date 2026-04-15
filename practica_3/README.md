@@ -39,8 +39,10 @@ Reproductor de audio funcional con las siguientes características:
 
 | Menú Principal | Interacción con Imágenes | Reproductor de Música |
 |:--------------:|:------------------------:|:---------------------:|
-| ![MainActivity](C:\Users\User\Desktop\Screenshot_20260412_221556.png) | ![ImagesActivity](C:\Users\User\Desktop\Screenshot_20260412_221737.png) | ![MediaActivity](C:\Users\User\Desktop\Screenshot_20260412_221749.png) |
+| <img width="1080" height="2400" alt="Screenshot_20260412_221556" src="https://github.com/user-attachments/assets/2b854379-6b58-4988-8d06-079d37c33729" /> | <img width="1080" height="2400" alt="Screenshot_20260412_221737" src="https://github.com/user-attachments/assets/18b78d08-9ba1-4b18-a137-3c3b23572906" /> | <img width="1080" height="2400" alt="Screenshot_20260412_221749" src="https://github.com/user-attachments/assets/db22ec4e-509a-4d7f-9a47-f2c7c6152805" />
+
 ---
+
 
 ## 🗂️ Estructura del proyecto
 
