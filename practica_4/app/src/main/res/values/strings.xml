@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">practica_4</string>
+    <string name="name">Nombre:</string>
+    <string name="age">Edad:</string>
+    <string name="city">Ciudad:</string>
+    <string name="email">Correo Electrónico:</string>
+    <string name="send">Continuar</string>
+    <string name="profile">Perfil</string>
 </resources>
