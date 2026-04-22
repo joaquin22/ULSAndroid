@@ -6,4 +6,6 @@
     <string name="email">Correo Electrónico:</string>
     <string name="send">Continuar</string>
     <string name="profile">Perfil</string>
+    <string name="confirm">Confirmar</string>
+    <string name="back_form">Volver a Editar</string>
 </resources>
